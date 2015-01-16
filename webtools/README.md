@@ -11,6 +11,12 @@
 ----------------
 		实现了从爱站提取一个网址的同站，并且加了自动验证网址能否链接的功能。
 		如果不能访问就是红色的。
+		
+		
+用到的模块
+---------
+		1.BeautifulSoup
+		2.PyQt4
 程序运行的界面
 ========================
 ![github](http://github.com/xcool/webtools/tree/master/webtools/images/mainwindow.png "界面")
