@@ -14,3 +14,8 @@
 程序运行的界面
 ========================
 ![github](http://github.com/xcool/webtools/tree/master/webtools/images/mainwindow.png "界面")
+
+个人博客
+============
+[个人博客](http://baicai2014.jd-app.com)<br /> 
+
