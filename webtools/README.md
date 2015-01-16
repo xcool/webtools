@@ -13,4 +13,4 @@
 		如果不能访问就是红色的。
 程序运行的界面
 ========================
-![github](http://github.com/xcool/webtools/tree/master/webtools/images/mainwindow.png "github")
+![github](http://github.com/xcool/webtools/tree/master/webtools/images/mainwindow.png "界面")
