@@ -17,5 +17,6 @@
 
 个人博客
 ============
-[个人博客](http://baicai2014.jd-app.com)<br /> 
+[京东云博客](http://baicai2015.jd-app.com)<br /> 
+[新浪云博客]（http://xcool.sinaapp.com）<br />
 
