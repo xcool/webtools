@@ -19,12 +19,14 @@
 		2.PyQt4
 程序运行的界面
 ========================
-![github](http://github.com/xcool/webtools/tree/master/webtools/images/mainwindow.png "界面")
+![github](http://github.com/xcool/webtools/tree/master/webtools/images/mainwindow.png "主界面")
 
-
+后期计划
+==========
+		1.增加其他功能，如MD5破解等。
 
 个人博客
 ============
 [京东云博客](http://baicai2015.jd-app.com)<br /> 
-[新浪云博客]（http://xcool.sinaapp.com）<br />
+[新浪云博客](http://xcool.sinaapp.com)<br />
 
